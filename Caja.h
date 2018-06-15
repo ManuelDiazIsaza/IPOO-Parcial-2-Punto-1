@@ -32,11 +32,11 @@ public:
     ~Caja();
 
     //Metodos Transacciones
-    void hacerTransaccion();
-    int cantidadTransacciones();
-    void imprimirTransacciones();
-    void valorPorTransaccion();
-    void interfazPPal();
+    void hacerTransaccion(); // realiza una transaccion
+    int cantidadTransacciones(); // devuelve la cantidad de transacciones realizadas
+    void imprimirTransacciones(); // imprime todas las transacciones realizadas con su respectiva cantidad
+    void valorPorTransaccion(); // // imprime el total por tipo de transaccion (retiro o consignacion)
+    void interfazPPal(); // maneja la interfaz principal
 
 
     //Metodos Cola
