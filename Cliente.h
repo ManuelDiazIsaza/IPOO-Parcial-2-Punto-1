@@ -8,8 +8,9 @@
   Licencia: GPL
 */
 
-// Responsabilidad:
+// Responsabilidad: elemento (cliente) de caja
 // Colaboracion: ninguna
+
 
 
 #ifndef CLIENTE_H

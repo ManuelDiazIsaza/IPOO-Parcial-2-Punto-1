@@ -8,8 +8,9 @@
   Licencia: GPL
 */
 
-// Responsabilidad:
+// Responsabilidad: elemento(Transaccion) de caja
 // Colaboracion: ninguna
+
 
 
 #ifndef TRANSACCION_H
